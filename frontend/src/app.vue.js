@@ -1,7 +1,7 @@
 <style>
-  .red {
-    color: #f00;
-  }
+.red {
+  color: #f00;
+}
 </style>
 
 <template>
